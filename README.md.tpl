@@ -19,6 +19,9 @@ author: Lukasz Ochmanski (github@ochmanski.de)
 &nbsp;
 
 
+## Supported tags and respective Dockerfile links
+* [https://github.com/ochmanskide/sdkman.candidates.java.22.2.r17-grl.linux.ubuntu.22.2.r17-grl-ubuntu/blob/1.0.0/Dockerfile](), [latest](https://github.com/ochmanskide/sdkman.candidates.java.22.2.r17-grl.linux.ubuntu.22.2.r17-grl-ubuntu/blob/main/Dockerfile)
+
 ## Before you start
 
 ### Gradle configuration
@@ -75,9 +78,9 @@ docker pull ochmanskide/sdkman.candidates.java.22.2.r17-grl.linux.ubuntu.22.2.r1
 
 ## 6. Docker images:
 ```
-REPOSITORY                                                                                        TAG                    SIZE
-ochmanskide/sdkman.candidates.java.22.2.r17-grl.linux.ubuntu.22.2.r17-grl-ubuntu   ###CI_COMMIT_TAG###                  1.18GB
-ochmanskide/sdkman.candidates.java.22.2.r17-grl.linux.ubuntu.22.2.r17-grl-ubuntu   latest                 1.18GB
+REPOSITORY                                                                         TAG       IMAGE ID       SIZE
+ochmanskide/sdkman.candidates.java.22.2.r17-grl.linux.ubuntu.22.2.r17-grl-ubuntu   ###CI_COMMIT_TAG###     2c0623e8eccc   624MB
+ubuntu                                                                             16.04     b6f507652425   135MB
 ```
 
 ## 11. Frequently Asked Questions (FAQ)
