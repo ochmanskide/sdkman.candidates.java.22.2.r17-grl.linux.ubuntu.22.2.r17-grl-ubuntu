@@ -1,9 +1,9 @@
 # SDKMAN archive for GraalVM
 
-last updated: last updated: Sat Oct  8 20:05:18 CEST 2022   
+last updated: last updated: Sat Oct  8 20:23:56 CEST 2022   
 author: Lukasz Ochmanski (github@ochmanski.de)  
   
-[![Github tag](https://badgen.net/github/tag/ochmanskide/sdkman.candidates.java.22.2.r17-grl.linux.ubuntu.22.2.r17-grl-ubuntu?icon=github&kill_cache=1)](https://github.com/ochmanskide/sdkman.candidates.java.22.2.r17-grl.linux.ubuntu.22.2.r17-grl-ubuntu/tags/0.0.3)  
+[![Github tag](https://badgen.net/github/tag/ochmanskide/sdkman.candidates.java.22.2.r17-grl.linux.ubuntu.22.2.r17-grl-ubuntu?icon=github&kill_cache=1)](https://github.com/ochmanskide/sdkman.candidates.java.22.2.r17-grl.linux.ubuntu.22.2.r17-grl-ubuntu/tags/1.0.0)  
 &nbsp;
   
 **Project details:**  
@@ -18,6 +18,9 @@ author: Lukasz Ochmanski (github@ochmanski.de)
   
 &nbsp;
 
+
+## Supported tags and respective Dockerfile links
+* [https://github.com/ochmanskide/sdkman.candidates.java.22.2.r17-grl.linux.ubuntu.22.2.r17-grl-ubuntu/blob/1.0.0/Dockerfile](), [latest](https://github.com/ochmanskide/sdkman.candidates.java.22.2.r17-grl.linux.ubuntu.22.2.r17-grl-ubuntu/blob/main/Dockerfile)
 
 ## Before you start
 
@@ -70,14 +73,14 @@ https://hub.docker.com/repository/docker/ochmanskide/sdkman.candidates.java.22.2
 
 ## 5. Image coordinates:
 ```  
-docker pull ochmanskide/sdkman.candidates.java.22.2.r17-grl.linux.ubuntu.22.2.r17-grl-ubuntu:0.0.3
+docker pull ochmanskide/sdkman.candidates.java.22.2.r17-grl.linux.ubuntu.22.2.r17-grl-ubuntu:1.0.0
 ```
 
 ## 6. Docker images:
 ```
-REPOSITORY                                                                                        TAG                    SIZE
-ochmanskide/sdkman.candidates.java.22.2.r17-grl.linux.ubuntu.22.2.r17-grl-ubuntu   0.0.3                  1.18GB
-ochmanskide/sdkman.candidates.java.22.2.r17-grl.linux.ubuntu.22.2.r17-grl-ubuntu   latest                 1.18GB
+REPOSITORY                                                                         TAG       IMAGE ID       SIZE
+ochmanskide/sdkman.candidates.java.22.2.r17-grl.linux.ubuntu.22.2.r17-grl-ubuntu   1.0.0     2c0623e8eccc   624MB
+ubuntu                                                                             16.04     b6f507652425   135MB
 ```
 
 ## 11. Frequently Asked Questions (FAQ)
