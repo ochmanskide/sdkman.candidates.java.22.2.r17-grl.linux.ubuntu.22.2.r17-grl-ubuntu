@@ -1,0 +1,108 @@
+HELP.md
+
+### Gradle ###
+/.gradle
+/build/
+*/build/
+/.mvn/wrapper/maven-wrapper.jar
+/gradle/wrapper/gradle-wrapper.jar
+gradlew
+gradlew.bat
+mvnw
+mvnw.bat
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+bin/
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+/out/
+*/out/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+*/.nb-gradle/
+
+### VS Code ###
+.vscode/
+
+/target/
+/work/
+/live/
+
+.DS_Store
+.mvn
+.vagrant
+
+### Log file ###
+*.log
+
+### docker-compose variables ###
+.env
+
+### Compiled class file ###
+*.class
+
+### BlueJ files ###
+*.ctxt
+
+### Mobile Tools for Java (J2ME) ###
+.mtj.tmp/
+
+### Package Files ###
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+### virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+### Maven ###
+*/target/
+/checkout/
+
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+
+### IntelliJ Idea locks ###
+*.nfs*
+
+### IntelliJ Idea crash Logs ###
+*.hprof
+
+### Eclipse specific files to ignore ###
+/bin
+*/bin
+
+### Local Docker configuration ###
+application-docker.yml
+application-docker.yaml
+application-docker.properties
+application-config*.yml
+
+### Quarkus Docker artifacts ###
+/src/main/docker/
+build.gradle.tmp
