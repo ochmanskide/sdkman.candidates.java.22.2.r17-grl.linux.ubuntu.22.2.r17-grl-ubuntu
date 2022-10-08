@@ -80,7 +80,7 @@ docker pull ochmanskide/sdkman.candidates.java.22.2.r17-grl.linux.ubuntu.22.2.r1
 ```
 REPOSITORY                                                                         TAG       IMAGE ID       SIZE
 ochmanskide/sdkman.candidates.java.22.2.r17-grl.linux.ubuntu.22.2.r17-grl-ubuntu   ###CI_COMMIT_TAG###     2c0623e8eccc   624MB
-docker.io/library/ubuntu                                                           16.04     b6f507652425   135MB
+docker.io/library/ubuntu                                                           22.04     216c552ea5ba   77.8MB
 ```
 
 ## 11. Frequently Asked Questions (FAQ)
