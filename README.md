@@ -1,9 +1,9 @@
 # SDKMAN archive for GraalVM
 
-last updated: last updated: Sat Oct  8 20:41:08 CEST 2022   
+last updated: last updated: Sat Oct  8 20:43:35 CEST 2022   
 author: Lukasz Ochmanski (github@ochmanski.de)  
   
-[![Github tag](https://badgen.net/github/tag/ochmanskide/sdkman.candidates.java.22.2.r17-grl.linux.ubuntu.22.2.r17-grl-ubuntu?icon=github&kill_cache=1)](https://github.com/ochmanskide/sdkman.candidates.java.22.2.r17-grl.linux.ubuntu.22.2.r17-grl-ubuntu/tags/1.0.3)  
+[![Github tag](https://badgen.net/github/tag/ochmanskide/sdkman.candidates.java.22.2.r17-grl.linux.ubuntu.22.2.r17-grl-ubuntu?icon=github&kill_cache=1)](https://github.com/ochmanskide/sdkman.candidates.java.22.2.r17-grl.linux.ubuntu.22.2.r17-grl-ubuntu/tags/1.0.4)  
 &nbsp;
   
 **Project details:**  
@@ -20,7 +20,10 @@ author: Lukasz Ochmanski (github@ochmanski.de)
 
 
 ## Supported tags and respective Dockerfile links
-* [https://github.com/ochmanskide/sdkman.candidates.java.22.2.r17-grl.linux.ubuntu.22.2.r17-grl-ubuntu/blob/1.0.0/Dockerfile](), [latest](https://github.com/ochmanskide/sdkman.candidates.java.22.2.r17-grl.linux.ubuntu.22.2.r17-grl-ubuntu/blob/main/Dockerfile)
+* [1.0.3](https://github.com/ochmanskide/sdkman.candidates.java.22.2.r17-grl.linux.ubuntu.22.2.r17-grl-ubuntu/blob/1.0.3/Dockerfile), [latest](https://github.com/ochmanskide/sdkman.candidates.java.22.2.r17-grl.linux.ubuntu.22.2.r17-grl-ubuntu/blob/main/Dockerfile)
+* [1.0.2](https://github.com/ochmanskide/sdkman.candidates.java.22.2.r17-grl.linux.ubuntu.22.2.r17-grl-ubuntu/blob/1.0.2/Dockerfile)
+* [1.0.1](https://github.com/ochmanskide/sdkman.candidates.java.22.2.r17-grl.linux.ubuntu.22.2.r17-grl-ubuntu/blob/1.0.1/Dockerfile)
+* [1.0.0](https://github.com/ochmanskide/sdkman.candidates.java.22.2.r17-grl.linux.ubuntu.22.2.r17-grl-ubuntu/blob/1.0.0/Dockerfile)
 
 ## Before you start
 
@@ -73,13 +76,13 @@ https://hub.docker.com/repository/docker/ochmanskide/sdkman.candidates.java.22.2
 
 ## 5. Image coordinates:
 ```  
-docker pull ochmanskide/sdkman.candidates.java.22.2.r17-grl.linux.ubuntu.22.2.r17-grl-ubuntu:1.0.3
+docker pull ochmanskide/sdkman.candidates.java.22.2.r17-grl.linux.ubuntu.22.2.r17-grl-ubuntu:1.0.4
 ```
 
 ## 6. Docker images:
 ```
 REPOSITORY                                                                         TAG       IMAGE ID       SIZE
-ochmanskide/sdkman.candidates.java.22.2.r17-grl.linux.ubuntu.22.2.r17-grl-ubuntu   1.0.3     2ee14ad56983   567MB
+ochmanskide/sdkman.candidates.java.22.2.r17-grl.linux.ubuntu.22.2.r17-grl-ubuntu   1.0.4     2ee14ad56983   567MB
 docker.io/library/ubuntu                                                           22.04     216c552ea5ba   77.8MB
 ```
 
