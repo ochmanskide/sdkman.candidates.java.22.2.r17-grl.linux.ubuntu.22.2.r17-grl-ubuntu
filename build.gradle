@@ -3,7 +3,7 @@ plugins {
     id "com.palantir.docker-run" version "0.22.1"
 }
 
-group 'sdkman.candidates.java.22.2.r17-grl.linux'
+group 'sdkman.candidates.java.22.2.r17-grl.linux.ubuntu'
 
 docker {
     def host = System.getenv('DOCKER_HUB_HOST')

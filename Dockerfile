@@ -14,4 +14,4 @@ RUN source "$HOME/.sdkman/bin/sdkman-init.sh"
 # Stage 2
 FROM ubuntu:16.04
 
-COPY --from=stage1 /root/.sdkman/candidates/java/22.2.r17-grl /root/.sdkman/candidates/java/22.2.r17-grl
+COPY --from=stage1 root/.sdkman/candidates/java/22.2.r17-grl root/.sdkman/candidates/java/22.2.r17-grl

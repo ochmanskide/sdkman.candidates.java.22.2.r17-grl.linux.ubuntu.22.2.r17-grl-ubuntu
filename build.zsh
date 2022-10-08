@@ -8,14 +8,14 @@
 # thank you
 
 #docker login
-cd $GITHUB/sdkman/candidates/java/22.2.r17-grl || exit
+cd $GITHUB/sdkman/candidates/java/22.2.r17-grl/darwin/intel || exit
 DOCKER_HUB_HOST=ochmanskide
 #GROUP_ID=$(gradle rootProjectGroupRaw -q)
 #ARTIFACT_ID=$(gradle rootProjectNameRaw -q)
 #IMAGE_TAG=$(gradle rootProjectVersionRaw -q)
 
-GROUP_ID='sdkman.candidates.java'
-ARTIFACT_ID='22.2.r17-grl'
+GROUP_ID='sdkman.candidates.java.22.2.r17-grl.linux.ubuntu'
+ARTIFACT_ID='ubuntu-22.2.r17-grl'
 IMAGE_TAG=$(gradle printVersion -q)
 
 docker build -t "$DOCKER_HUB_HOST"/"$GROUP_ID"/"$ARTIFACT_ID":$IMAGE_TAG-slim . # --squash
