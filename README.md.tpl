@@ -20,7 +20,10 @@ author: Lukasz Ochmanski (github@ochmanski.de)
 
 
 ## Supported tags and respective Dockerfile links
-* [https://github.com/ochmanskide/sdkman.candidates.java.22.2.r17-grl.linux.ubuntu.22.2.r17-grl-ubuntu/blob/1.0.0/Dockerfile](), [latest](https://github.com/ochmanskide/sdkman.candidates.java.22.2.r17-grl.linux.ubuntu.22.2.r17-grl-ubuntu/blob/main/Dockerfile)
+* [1.0.3](https://github.com/ochmanskide/sdkman.candidates.java.22.2.r17-grl.linux.ubuntu.22.2.r17-grl-ubuntu/blob/1.0.3/Dockerfile), [latest](https://github.com/ochmanskide/sdkman.candidates.java.22.2.r17-grl.linux.ubuntu.22.2.r17-grl-ubuntu/blob/main/Dockerfile)
+* [1.0.2](https://github.com/ochmanskide/sdkman.candidates.java.22.2.r17-grl.linux.ubuntu.22.2.r17-grl-ubuntu/blob/1.0.2/Dockerfile)
+* [1.0.1](https://github.com/ochmanskide/sdkman.candidates.java.22.2.r17-grl.linux.ubuntu.22.2.r17-grl-ubuntu/blob/1.0.1/Dockerfile)
+* [1.0.0](https://github.com/ochmanskide/sdkman.candidates.java.22.2.r17-grl.linux.ubuntu.22.2.r17-grl-ubuntu/blob/1.0.0/Dockerfile)
 
 ## Before you start
 
