@@ -1,9 +1,9 @@
 # SDKMAN archive for GraalVM
 
-last updated: last updated: Sat Oct  8 20:48:43 CEST 2022   
+last updated: last updated: Sun Oct  9 11:45:31 CEST 2022   
 author: Lukasz Ochmanski (github@ochmanski.de)  
   
-[![Github tag](https://badgen.net/github/tag/ochmanskide/sdkman.candidates.java.22.2.r17-grl.linux.ubuntu.22.2.r17-grl-ubuntu?icon=github&kill_cache=1)](https://github.com/ochmanskide/sdkman.candidates.java.22.2.r17-grl.linux.ubuntu.22.2.r17-grl-ubuntu/tags/1.0.5)  
+[![Github tag](https://badgen.net/github/tag/ochmanskide/sdkman.candidates.java.22.2.r17-grl.linux.ubuntu.22.2.r17-grl-ubuntu?icon=github&kill_cache=1)](https://github.com/ochmanskide/sdkman.candidates.java.22.2.r17-grl.linux.ubuntu.22.2.r17-grl-ubuntu/tags/1.0.6)  
 &nbsp;
   
 **Project details:**  
@@ -79,13 +79,13 @@ https://hub.docker.com/repository/docker/ochmanskide/sdkman.candidates.java.22.2
 
 ## 5. Image coordinates:
 ```  
-docker pull ochmanskide/sdkman.candidates.java.22.2.r17-grl.linux.ubuntu.22.2.r17-grl-ubuntu:1.0.5
+docker pull ochmanskide/sdkman.candidates.java.22.2.r17-grl.linux.ubuntu.22.2.r17-grl-ubuntu:1.0.6
 ```
 
 ## 6. Docker images:
 ```
 REPOSITORY                                                                         TAG       IMAGE ID       SIZE
-ochmanskide/sdkman.candidates.java.22.2.r17-grl.linux.ubuntu.22.2.r17-grl-ubuntu   1.0.5     2ee14ad56983   567MB
+ochmanskide/sdkman.candidates.java.22.2.r17-grl.linux.ubuntu.22.2.r17-grl-ubuntu   1.0.6     2ee14ad56983   567MB
 docker.io/library/ubuntu                                                           22.04     216c552ea5ba   77.8MB
 ```
 
